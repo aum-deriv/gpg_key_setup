@@ -1,0 +1,37 @@
+[keyboxd]
+---------
+sec   rsa4096/A3307F12A2D891E7 2024-01-03 [SCEAR]
+      19D07458735DB288C9BE695BA3307F12A2D891E7
+uid                 [ultimate] aum-test <aum@foo.bar>
+
+sec   rsa4096/FF86342555031D4F 2024-01-03 [SCEAR]
+      22AE3A2FABD35433951A1951FF86342555031D4F
+uid                 [ultimate] aum-test <aum@foo.bar>
+
+sec   dsa1024/CCB2C09BFF620776 2024-01-03 [SCA]
+      2B03DE052879C93F786DF55CCCB2C09BFF620776
+uid                 [ultimate] Joe Tester (with stupid passphrase) <joe@foo.bar>
+ssb   elg1024/819B81FE854F66B9 2024-01-03 [ER]
+
+sec   rsa4096/A33BA220B1C0C8C1 2024-01-03 [SCEAR]
+      51C6C9270CA619F790F2B962A33BA220B1C0C8C1
+uid                 [ultimate] aum-test <aum@foo.bar>
+
+sec   dsa1024/F2E99055AD0EFF5C 2024-01-03 [SCA]
+      8F1F9D60ED6D670FE57AF1F6F2E99055AD0EFF5C
+uid                 [ultimate] Joe Tester (with stupid passphrase) <joe@foo.bar>
+ssb   elg1024/AD218806521DC6F3 2024-01-03 [ER]
+
+sec   rsa4096/195C92D295F3F25B 2023-12-22 [SC]
+      9C763F2C7D50F09004C4F7D9195C92D295F3F25B
+uid                 [ultimate] aum <aum@deriv.com>
+ssb   rsa4096/836B909FB4F2394E 2023-12-22 [E]
+
+sec   rsa4096/D947A5874732AEF4 2024-01-03 [SCEAR]
+      A54F9FF08B0221EE932FF481D947A5874732AEF4
+uid                 [ultimate] aum-test <aum@foo.bar>
+
+sec   rsa4096/9932744F72D9B83F 2024-01-03 [SCEAR]
+      DD12AB2A61733D7CD283EC259932744F72D9B83F
+uid                 [ultimate] aum-test <aum@foo.bar>
+
